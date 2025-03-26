@@ -27,6 +27,7 @@ Kansas State University <br>
 - **Link:** [Reddit‐impacts Paper](https://arxiv.org/abs/2405.06145) 
 - **LABELED DATA:**
   - Binary **about illicit drug use** or **not** (plus metadata)
+### I was expecting to use this data to find tune a PLM/LLM.
 
 ## Script 
 Using **find_terms_in_subreddits.py**
