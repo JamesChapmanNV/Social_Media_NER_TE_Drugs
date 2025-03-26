@@ -3,16 +3,11 @@ A temporary repository to keep track of papers in literature review and show sam
 CIS 830 Advanced Topics in AI  <br>
 Kansas State University <br>
 
-# GPT3-Lexicon, AcademicTorrents, & Reddit‐impacts DATA
----
-
-## Data Sources
+# Sample DATA & scripts
 
 ### 1. GPT3-Lexicon
-- **Sample: drugs_of_abuse_lexicon.csv**  
-- **Link:** [GPT3-Lexicon Drugs of Abuse Lexicon](https://github.com/kristycarp/gpt3-lexicon/blob/main/lexicon/drugs_of_abuse_lexicon.tsv)
-- **Overview:**  
-  Contains **98 drugs** with an average of **~150 lexicon/synonym terms** (including common misspellings) per drug.
+- **Link/sample:** [GPT3-Lexicon Drugs of Abuse Lexicon](https://github.com/kristycarp/gpt3-lexicon/blob/main/lexicon/drugs_of_abuse_lexicon.tsv)
+- **Contains:** **98 drugs** with an average of **~150 lexicon/synonym terms** (including common misspellings) per drug.
 - **FYI:**  
 -	To get these, they basically asked ChatGPT what are some possible synonyms to describe drug X, then verifies the term programmatically using Google API (within the first 10 pages of Google search).
 
@@ -27,7 +22,7 @@ Kansas State University <br>
 
 ---
 
-### 3. Reddit‐impacts  Paper
+### 3. Reddit‐impacts Paper
 - **Sample: sample_Reddit‐impacts_data.csv**  
 - **Link:** [Reddit‐impacts Paper](https://arxiv.org/abs/2405.06145) 
 - **LABELED DATA:**
