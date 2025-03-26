@@ -30,7 +30,7 @@ Kansas State University <br>
 
 ## Script 
 Using **find_terms_in_subreddits.py**
-- **Sample: 5MeODMT_comments.csv**  
+- **Sample: sample_from_subReddit_5MeODMT.csv**  
 - I simply searched every comment/submission for direct matches in GPT3-lexicon.
 - Resulting in a dataframe
   - datetime
