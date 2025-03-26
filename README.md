@@ -1,9 +1,9 @@
 # Social_Media_NER_TE_Drugs
-A temporary repository to keep track of papers in literature review. <br> <br>
+A temporary repository to keep track of papers in literature review and show sample data. <br> <br>
 CIS 830 Advanced Topics in AI  <br>
 Kansas State University <br>
 
-# GPT3-Lexicon & AcademicTorrents 
+# GPT3-Lexicon, AcademicTorrents, & Reddit‐impacts DATA
 ---
 
 ## Data Sources
@@ -19,7 +19,6 @@ Kansas State University <br>
 ---
 
 ### 2. All Reddit Posts- AcademicTorrents
-- **Sample: sample_Reddit‐impacts_data.csv**  
 - **Link:** [AcademicTorrents - Reddit Archive](https://academictorrents.com/details/ba051999301b109eab37d16f027b3f49ade2de13)
 - **Overview:**  
  nearly every available Reddit post.
@@ -28,23 +27,21 @@ Kansas State University <br>
 
 ---
 
-## Script 
-Using **find_terms_in_subreddits.py**
-- I simply searched every comment/submission for direct matches in GPT3-lexicon.
-- Resulting in a data frame
-  - datetime
-  - text
-  - lexicon/synonym term
-  - index term
-
-
 ### 3. Reddit‐impacts  Paper
 - **Sample: sample_Reddit‐impacts_data.csv**  
 - **Link:** [Reddit‐impacts Paper](https://arxiv.org/abs/2405.06145) 
 - **LABELED DATA:**
   - Binary **about illicit drug use** or **not** (plus metadata)
 
-
+## Script 
+Using **find_terms_in_subreddits.py**
+- **Sample: 5MeODMT_comments.csv**  
+- I simply searched every comment/submission for direct matches in GPT3-lexicon.
+- Resulting in a dataframe
+  - datetime
+  - text
+  - lexicon/synonym term
+  - index term
 ---
 
 
