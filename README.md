@@ -22,9 +22,9 @@ Kansas State University <br>
 
 ---
 
-### 3. Reddit‐impacts Paper
-- **Sample: sample_Reddit‐impacts_data.csv**  
-- **Link:** [Reddit‐impacts Paper](https://arxiv.org/abs/2405.06145) 
+### 3. Robust Drug Use Detection on X: Ensemble Method with a Transformer Approach 
+- **Sample: sample_Robust_Drug_Use_Detection_data.csv**  
+- **Link:** [Robust Drug Use Paper](http://dx.doi.org/10.1007/s13369-024-08845-6) 
 - **LABELED DATA:**
   - Binary **about illicit drug use** or **not** (plus metadata)
 ### I was expecting to use this data to find tune a PLM/LLM.
